@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
+## Vanessa Roux
+Je suis développeuse web avec des compétences en gestion de projet et communication digitale.  
+  
+J'ai passé un titre professionel de niveau bac+2 à l'école régionale du numérique [Simplon](https://simplon.co/) 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Contactez-moi :<a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Retrouvez moi sur :
+[Twitter](https://twitter.com/VanessaRouxx)
+[LinkedIn](https://www.linkedin.com/in/vanessa-roux-54017595/)
+[Github](https://github.com/Vanoux)
 
 
-[jekyll-organization]: https://github.com/jekyll
+Le code source de ce site est disponible sur GitHub:
+[Vanoux](https://github.com/Vanoux/Vanoux.github.io)
+
